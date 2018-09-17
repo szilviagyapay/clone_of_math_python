@@ -1,10 +1,12 @@
 On branch master
 Your branch is up-to-date with 'origin/master'.
-You have unmerged paths.
-  (fix conflicts and run "git commit")
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
 
 Changes to be committed:
 
+	modified:   README.md
+	new file:   ezcsaklokalis
 	new file:   p1.py
 	new file:   p10.py
 	new file:   p11.py
@@ -30,15 +32,11 @@ Changes to be committed:
 	new file:   p7.py
 	new file:   p8.py
 	new file:   p9.py
+	new file:   stat
 
-Unmerged paths:
-  (use "git add <file>..." to mark resolution)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
 
-	both added:      README.md
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	ezcsaklokalis
-	stat
+	modified:   stat
 
