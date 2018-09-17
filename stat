@@ -1,0 +1,44 @@
+On branch master
+Your branch is up-to-date with 'origin/master'.
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Changes to be committed:
+
+	new file:   p1.py
+	new file:   p10.py
+	new file:   p11.py
+	new file:   p12.py
+	new file:   p13.py
+	new file:   p14.py
+	new file:   p15.py
+	new file:   p16.py
+	new file:   p17.py
+	new file:   p18.py
+	new file:   p19.py
+	new file:   p2.py
+	new file:   p20.py
+	new file:   p21.py
+	new file:   p22.py
+	new file:   p23.py
+	new file:   p24.py
+	new file:   p25.py
+	new file:   p3.py
+	new file:   p4.py
+	new file:   p5.py
+	new file:   p6.py
+	new file:   p7.py
+	new file:   p8.py
+	new file:   p9.py
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+	both added:      README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	ezcsaklokalis
+	stat
+
